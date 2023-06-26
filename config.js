@@ -32,7 +32,7 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com*`
 
 
-global.ownername = "友.𝐿𝛪𝛧𝛥¿?💌"    
+global.ownername = "𝐿𝛪𝛧𝛥💌"    
 global.ownernumber = ["919394988360,918010431346"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
