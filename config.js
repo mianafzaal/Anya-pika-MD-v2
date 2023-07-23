@@ -2,7 +2,7 @@
 
 // • # Made by @PikaBotz [ GitHub.com/PikaBotz ]
 // • # The script is Encrypted because users are not allowed to commit any changes without permission!
-// • # To buy non enc version of Anya-pika-MD-v2 please contact wa.me/918811074852 [ $5 - $8 ]
+// • # To buy non enc version of Anya-pika-MD-v2 please contact wa.me/923430436852 [ $5 - $8 ]
 
 // • T H A N K S - TO
 // @NexusAt12
@@ -21,19 +21,19 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "友.𝐿𝛪𝛧𝛥¿?💌"  
-global.packname = "友.𝐿𝛪𝛧𝛥¿?💌"  
+global.botname = "Queen🦜" 
+global.author = "友.©᭄𝑴𝒊𝒂𝒏🌸ོ"  
+global.packname = "友©᭄𝑴𝒊𝒂𝒏🌸ོ  
 global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "友.𝐿𝛪𝛧𝛥¿?💌"
+global.footer = "©\t" + "友.©᭄𝑴𝒊𝒂𝒏🌸ོ"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com*`
 
 
-global.ownername = "𝐿𝛪𝛧𝛥💌"    
-global.ownernumber = ["918010431346"]
+global.ownername = "©᭄𝑴𝒊𝒂𝒏🌸ོ"    
+global.ownernumber = ["923430436852"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
 global.region = "Enter Your Country Name Here"
@@ -51,7 +51,7 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.sudo = ['918010431346','91881107****']  // Co - Owners
+global.sudo = ['923430436852','923430436852']  // Co - Owners
 
 
 //--------------- Tip ----------------\\
